@@ -1,4 +1,4 @@
-# 
+# Enhance Obsidian for Windows with elite Obsidian for Windows Module | templates + voice-notes, the #1 module. Includes templates and voice-notes for a smoother and more productive
 
 
 
